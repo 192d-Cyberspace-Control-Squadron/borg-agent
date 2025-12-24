@@ -15,7 +15,7 @@ tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 
 tonic = { version = "0.12", features = ["tls", "transport"] }
-prost = "0.13"
+prost = "0.14"
 prost-types = "0.13"
 
 uuid = { version = "1", features = ["v4"] }
