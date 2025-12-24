@@ -22,7 +22,7 @@ uuid = { version = "1", features = ["v4"] }
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 
-windows-service = "0.7"
+windows-service = "0.8"
 hostname = "0.4"
 
 # Optional (if you want to later do registry inventory properly)
