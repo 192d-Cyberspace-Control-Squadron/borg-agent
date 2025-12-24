@@ -26,7 +26,7 @@ windows-service = "0.7"
 hostname = "0.4"
 
 # Optional (if you want to later do registry inventory properly)
-windows = { version = "0.58", features = [
+windows = { version = "0.62", features = [
     "Win32_System_Registry",
     "Win32_Foundation",
 ] }
