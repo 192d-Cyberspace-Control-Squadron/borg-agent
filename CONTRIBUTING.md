@@ -74,4 +74,4 @@ By making a contribution to this project, I certify that:
 
 ## Getting Started
 
-Please see the [Getting Started](192d-cyberspace-control-squadron.github.io/borg-agent/getting_started) page in the documents.
+Please see the [Getting Started](192d-cyberspace-control-squadron.github.io/borg-agent/) page in the documents.
